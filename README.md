@@ -5,7 +5,10 @@
 ## python 3.9.7
 ## scikit-learn 1.0.2
 
+<h2>
+  download the pickle file for svm weights and change the path in code file 
 </h2>
+<h2>
   This code uses google mediapipe Hands for feature extraction of landmarks and SVM for classification
 
   The model is trained on Roboflow ASL dataset by David Lee 
