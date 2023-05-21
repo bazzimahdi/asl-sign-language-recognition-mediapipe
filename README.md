@@ -8,5 +8,5 @@
 </h2>
   This code uses google mediapipe Hands for feature extraction of landmarks and SVM for classification
 
-  The model is trained on Roboflow ASL dataset
+  The model is trained on Roboflow ASL dataset by David Lee 
 </h2>
